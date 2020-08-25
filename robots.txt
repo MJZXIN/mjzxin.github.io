@@ -1,4 +1,4 @@
 # robots.txt generated at https://www.sojson.com/robots/
-Disallow: /link
+
 User-agent: *
-Disallow:
+Disallow: /link
