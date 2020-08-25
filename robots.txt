@@ -1,4 +1,4 @@
 # robots.txt generated at https://www.sojson.com/robots/
-Disallow:https://mjzxin.gitee.io/link
+Disallow: /link
 User-agent: *
 Disallow:
