@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>铭小辛的部落格</title>
+  
+  
+  <link href="https://mjzxin.gitee.io/atom.xml" rel="self"/>
+  
+  <link href="https://mjzxin.gitee.io/"/>
+  <updated>2020-08-25T00:50:01.381Z</updated>
+  <id>https://mjzxin.gitee.io/</id>
+  
+  <author>
+    <name>ming</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>七夕快乐</title>
+    <link href="https://mjzxin.gitee.io/post/519950924.html"/>
+    <id>https://mjzxin.gitee.io/post/519950924.html</id>
+    <published>2020-08-25T00:46:39.000Z</published>
+    <updated>2020-08-25T00:50:01.381Z</updated>
+    
+    <content type="html"><![CDATA[<h1>555,祝大家七夕快乐~</h1><p>😀 测试下emoji能不能正常显示</p>]]></content>
+    
+    
+    <summary type="html">测试下博客</summary>
+    
+    
+    
+    
+    <category term="闲聊" scheme="https://mjzxin.gitee.io/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何配置PLC</title>
+    <link href="https://mjzxin.gitee.io/post/2475199580.html"/>
+    <id>https://mjzxin.gitee.io/post/2475199580.html</id>
+    <published>2020-08-24T06:37:00.000Z</published>
+    <updated>2020-08-24T11:13:26.282Z</updated>
+    
+    <content type="html"><![CDATA[<h1>打开博图</h1><h2 id="新建工程"><a class="header-anchor" href="#新建工程"></a>新建工程</h2><figure class="highlight pascal"><table><tr><td class="code"><pre><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+    <summary type="html">教程</summary>
+    
+    
+    
+    <category term="教程1" scheme="https://mjzxin.gitee.io/categories/%E6%95%99%E7%A8%8B1/"/>
+    
+    
+    <category term="PLC" scheme="https://mjzxin.gitee.io/tags/PLC/"/>
+    
+    <category term="自动化" scheme="https://mjzxin.gitee.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第二篇</title>
+    <link href="https://mjzxin.gitee.io/post/1131709303.html"/>
+    <id>https://mjzxin.gitee.io/post/1131709303.html</id>
+    <published>2020-08-23T14:44:15.000Z</published>
+    <updated>2020-08-24T11:13:02.043Z</updated>
+    
+    <content type="html"><![CDATA[<h1>测试</h1><p>啦啦啦</p>]]></content>
+    
+    
+    <summary type="html">测试</summary>
+    
+    
+    
+    <category term="测试1" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%951/"/>
+    
+    
+    <category term="123" scheme="https://mjzxin.gitee.io/tags/123/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇</title>
+    <link href="https://mjzxin.gitee.io/post/1935830959.html"/>
+    <id>https://mjzxin.gitee.io/post/1935830959.html</id>
+    <published>2020-08-23T14:43:46.000Z</published>
+    <updated>2020-08-24T11:13:12.771Z</updated>
+    
+    <content type="html"><![CDATA[<h1>测试一下</h1><h2 id="正式上线了"><a class="header-anchor" href="#正式上线了"></a>正式上线了</h2>]]></content>
+    
+    
+    <summary type="html">测试</summary>
+    
+    
+    
+    <category term="测试2" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%952/"/>
+    
+    
+    <category term="更新" scheme="https://mjzxin.gitee.io/tags/%E6%9B%B4%E6%96%B0/"/>
+    
+  </entry>
+  
+</feed>
