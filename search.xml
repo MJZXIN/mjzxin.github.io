@@ -26,16 +26,16 @@
       </tags>
   </entry>
   <entry>
-    <title>第一篇</title>
-    <url>/post/1935830959.html</url>
-    <content><![CDATA[<h1>测试一下</h1>
-<h2 id="正式上线了"><a class="header-anchor" href="#正式上线了"></a>正式上线了</h2>
+    <title>测试下载功能</title>
+    <url>/post/3828527213.html</url>
+    <content><![CDATA[<h1>测试下载链接</h1>
+<h2 id="链接1"><a class="header-anchor" href="#链接1"></a>链接1</h2>
+<p><a href="/download/Hello.txt">点击下载</a></p>
+<h2 id="链接2"><a class="header-anchor" href="#链接2"></a>链接2</h2>
+<p><a href="download/Hello.txt" target="_blank">点击下载</a></p>
 ]]></content>
-      <categories>
-        <category>测试2</category>
-      </categories>
       <tags>
-        <tag>更新</tag>
+        <tag>测试</tag>
       </tags>
   </entry>
   <entry>
@@ -52,13 +52,16 @@
       </tags>
   </entry>
   <entry>
-    <title>测试下载功能</title>
-    <url>/post/3828527213.html</url>
-    <content><![CDATA[<h1>测试下载链接</h1>
-<p><a href="/download/Hello.txt">点击下载</a></p>
+    <title>第一篇</title>
+    <url>/post/1935830959.html</url>
+    <content><![CDATA[<h1>测试一下</h1>
+<h2 id="正式上线了"><a class="header-anchor" href="#正式上线了"></a>正式上线了</h2>
 ]]></content>
+      <categories>
+        <category>测试2</category>
+      </categories>
       <tags>
-        <tag>测试</tag>
+        <tag>更新</tag>
       </tags>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="https://mjzxin.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://mjzxin.gitee.io/"/>
-  <updated>2020-08-25T10:03:37.160Z</updated>
+  <updated>2020-08-25T10:08:37.707Z</updated>
   <id>https://mjzxin.gitee.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://mjzxin.gitee.io/post/3828527213.html"/>
     <id>https://mjzxin.gitee.io/post/3828527213.html</id>
     <published>2020-08-25T10:01:17.000Z</published>
-    <updated>2020-08-25T10:03:37.160Z</updated>
+    <updated>2020-08-25T10:08:37.707Z</updated>
     
-    <content type="html"><![CDATA[<h1>测试下载链接</h1><p><a href="/download/Hello.txt">点击下载</a></p>]]></content>
+    <content type="html"><![CDATA[<h1>测试下载链接</h1><h2 id="链接1"><a class="header-anchor" href="#链接1"></a>链接1</h2><p><a href="/download/Hello.txt">点击下载</a></p><h2 id="链接2"><a class="header-anchor" href="#链接2"></a>链接2</h2><p><a href="download/Hello.txt" target="_blank">点击下载</a></p>]]></content>
     
     
     <summary type="html">试试下载</summary>
