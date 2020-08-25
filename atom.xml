@@ -55,25 +55,23 @@
   </entry>
   
   <entry>
-    <title>如何配置PLC</title>
+    <title>测试图片</title>
     <link href="https://mjzxin.gitee.io/post/2475199580.html"/>
     <id>https://mjzxin.gitee.io/post/2475199580.html</id>
     <published>2020-08-24T06:37:00.000Z</published>
-    <updated>2020-08-24T11:13:26.282Z</updated>
+    <updated>2020-08-25T10:33:59.194Z</updated>
     
-    <content type="html"><![CDATA[<h1>打开博图</h1><h2 id="新建工程"><a class="header-anchor" href="#新建工程"></a>新建工程</h2><figure class="highlight pascal"><table><tr><td class="code"><pre><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">教程</summary>
+    <content type="html"><![CDATA[<h1>打开博图</h1><h2 id="新建工程"><a class="header-anchor" href="#新建工程"></a>新建工程</h2><p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/Surface">https://gitee.com/mjzxin/picgo/raw/master/img/Surface</a> Hub.jpg)</p><p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/Surface">https://gitee.com/mjzxin/picgo/raw/master/img/Surface</a> Family.jpg)</p><p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/Surface">https://gitee.com/mjzxin/picgo/raw/master/img/Surface</a> Studio (Mountains).jpg)</p><figure class="highlight pascal"><table><tr><td class="code"><pre><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br></pre></td></tr></table></figure>]]></content>
     
     
+    <summary type="html">图片</summary>
     
-    <category term="教程1" scheme="https://mjzxin.gitee.io/categories/%E6%95%99%E7%A8%8B1/"/>
     
     
-    <category term="PLC" scheme="https://mjzxin.gitee.io/tags/PLC/"/>
+    <category term="相册" scheme="https://mjzxin.gitee.io/categories/%E7%9B%B8%E5%86%8C/"/>
     
-    <category term="自动化" scheme="https://mjzxin.gitee.io/tags/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    <category term="图片" scheme="https://mjzxin.gitee.io/tags/%E5%9B%BE%E7%89%87/"/>
     
   </entry>
   
@@ -82,7 +80,7 @@
     <link href="https://mjzxin.gitee.io/post/1131709303.html"/>
     <id>https://mjzxin.gitee.io/post/1131709303.html</id>
     <published>2020-08-23T14:44:15.000Z</published>
-    <updated>2020-08-24T11:13:02.043Z</updated>
+    <updated>2020-08-25T10:31:53.492Z</updated>
     
     <content type="html"><![CDATA[<h1>测试</h1><p>啦啦啦</p>]]></content>
     
@@ -91,10 +89,10 @@
     
     
     
-    <category term="测试1" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%951/"/>
+    <category term="测试" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
-    <category term="123" scheme="https://mjzxin.gitee.io/tags/123/"/>
+    <category term="测试" scheme="https://mjzxin.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
@@ -103,7 +101,7 @@
     <link href="https://mjzxin.gitee.io/post/1935830959.html"/>
     <id>https://mjzxin.gitee.io/post/1935830959.html</id>
     <published>2020-08-23T14:43:46.000Z</published>
-    <updated>2020-08-24T11:13:12.771Z</updated>
+    <updated>2020-08-25T10:31:30.067Z</updated>
     
     <content type="html"><![CDATA[<h1>测试一下</h1><h2 id="正式上线了"><a class="header-anchor" href="#正式上线了"></a>正式上线了</h2>]]></content>
     
@@ -112,7 +110,7 @@
     
     
     
-    <category term="测试2" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%952/"/>
+    <category term="测试" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%95/"/>
     
     
     <category term="更新" scheme="https://mjzxin.gitee.io/tags/%E6%9B%B4%E6%96%B0/"/>

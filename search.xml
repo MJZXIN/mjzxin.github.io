@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>测试图片</title>
+    <url>/post/2475199580.html</url>
+    <content><![CDATA[<h1>打开博图</h1>
+<h2 id="新建工程"><a class="header-anchor" href="#新建工程"></a>新建工程</h2>
+<p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/Surface">https://gitee.com/mjzxin/picgo/raw/master/img/Surface</a> Hub.jpg)</p>
+<p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/Surface">https://gitee.com/mjzxin/picgo/raw/master/img/Surface</a> Family.jpg)</p>
+<p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/Surface">https://gitee.com/mjzxin/picgo/raw/master/img/Surface</a> Studio (Mountains).jpg)</p>
+<figure class="highlight pascal"><table><tr><td class="code"><pre><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br></pre></td></tr></table></figure>
+]]></content>
+      <categories>
+        <category>相册</category>
+      </categories>
+      <tags>
+        <tag>图片</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>七夕快乐</title>
     <url>/post/519950924.html</url>
     <content><![CDATA[<h1>555,祝大家七夕快乐~</h1>
@@ -8,21 +25,6 @@
 ]]></content>
       <tags>
         <tag>闲聊</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何配置PLC</title>
-    <url>/post/2475199580.html</url>
-    <content><![CDATA[<h1>打开博图</h1>
-<h2 id="新建工程"><a class="header-anchor" href="#新建工程"></a>新建工程</h2>
-<figure class="highlight pascal"><table><tr><td class="code"><pre><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">	asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br></pre></td></tr></table></figure>
-]]></content>
-      <categories>
-        <category>教程1</category>
-      </categories>
-      <tags>
-        <tag>PLC</tag>
-        <tag>自动化</tag>
       </tags>
   </entry>
   <entry>
@@ -39,29 +41,29 @@
       </tags>
   </entry>
   <entry>
-    <title>第二篇</title>
-    <url>/post/1131709303.html</url>
-    <content><![CDATA[<h1>测试</h1>
-<p>啦啦啦</p>
-]]></content>
-      <categories>
-        <category>测试1</category>
-      </categories>
-      <tags>
-        <tag>123</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>第一篇</title>
     <url>/post/1935830959.html</url>
     <content><![CDATA[<h1>测试一下</h1>
 <h2 id="正式上线了"><a class="header-anchor" href="#正式上线了"></a>正式上线了</h2>
 ]]></content>
       <categories>
-        <category>测试2</category>
+        <category>测试</category>
       </categories>
       <tags>
         <tag>更新</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二篇</title>
+    <url>/post/1131709303.html</url>
+    <content><![CDATA[<h1>测试</h1>
+<p>啦啦啦</p>
+]]></content>
+      <categories>
+        <category>测试</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
       </tags>
   </entry>
 </search>
