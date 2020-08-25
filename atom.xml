@@ -6,7 +6,7 @@
   <link href="https://mjzxin.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://mjzxin.gitee.io/"/>
-  <updated>2020-08-25T00:50:01.381Z</updated>
+  <updated>2020-08-25T10:03:37.160Z</updated>
   <id>https://mjzxin.gitee.io/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试下载功能</title>
+    <link href="https://mjzxin.gitee.io/post/3828527213.html"/>
+    <id>https://mjzxin.gitee.io/post/3828527213.html</id>
+    <published>2020-08-25T10:01:17.000Z</published>
+    <updated>2020-08-25T10:03:37.160Z</updated>
+    
+    <content type="html"><![CDATA[<h1>测试下载链接</h1><p><a href="/download/Hello.txt">点击下载</a></p>]]></content>
+    
+    
+    <summary type="html">试试下载</summary>
+    
+    
+    
+    
+    <category term="测试" scheme="https://mjzxin.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
   
   <entry>
     <title>七夕快乐</title>

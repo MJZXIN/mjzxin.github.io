@@ -51,4 +51,14 @@
         <tag>123</tag>
       </tags>
   </entry>
+  <entry>
+    <title>测试下载功能</title>
+    <url>/post/3828527213.html</url>
+    <content><![CDATA[<h1>测试下载链接</h1>
+<p><a href="/download/Hello.txt">点击下载</a></p>
+]]></content>
+      <tags>
+        <tag>测试</tag>
+      </tags>
+  </entry>
 </search>
