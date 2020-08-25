@@ -6,7 +6,7 @@
   <link href="https://mjzxin.gitee.io/atom.xml" rel="self"/>
   
   <link href="https://mjzxin.gitee.io/"/>
-  <updated>2020-08-25T10:16:51.138Z</updated>
+  <updated>2020-08-25T13:16:45.980Z</updated>
   <id>https://mjzxin.gitee.io/</id>
   
   <author>
@@ -17,103 +17,48 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试下载功能</title>
-    <link href="https://mjzxin.gitee.io/post/3828527213.html"/>
-    <id>https://mjzxin.gitee.io/post/3828527213.html</id>
-    <published>2020-08-25T10:01:17.000Z</published>
-    <updated>2020-08-25T10:16:51.138Z</updated>
+    <title>微软壁纸</title>
+    <link href="https://mjzxin.gitee.io/post/1067949042.html"/>
+    <id>https://mjzxin.gitee.io/post/1067949042.html</id>
+    <published>2020-08-25T12:56:22.000Z</published>
+    <updated>2020-08-25T13:16:45.980Z</updated>
     
-    <content type="html"><![CDATA[<h1>测试下载链接</h1><h2 id="链接1"><a class="header-anchor" href="#链接1"></a>链接1</h2><p><a href="/download/Hello.txt">点击下载</a></p><h2 id="链接2"><a class="header-anchor" href="#链接2"></a>链接2</h2><p><a href="/download/Hello.txt" target="_blank">点击下载</a></p>]]></content>
-    
-    
-    <summary type="html">试试下载</summary>
+    <content type="html"><![CDATA[<h1>来自微软的高清壁纸</h1><h2 id="大图注意流量哦"><a class="header-anchor" href="#大图注意流量哦"></a>大图注意流量哦.</h2><h3 id="Surface-Family"><a class="header-anchor" href="#Surface-Family"></a>Surface Family</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/Ypq2lUAPfo7xzvL.jpg" alt="SurfaceFamily"></p><h3 id="Surface-Go"><a class="header-anchor" href="#Surface-Go"></a>Surface Go</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/equWRa4iYAzhDIM.jpg" alt="SurfaceGo"></p><h3 id="Surface-Hub-2-Surf"><a class="header-anchor" href="#Surface-Hub-2-Surf"></a>Surface Hub 2 (Surf)</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/rRF5djE4Qhx78Yv.jpg" alt="SurfaceHub2(Surf)"></p><h3 id="Surface-Laptop-2"><a class="header-anchor" href="#Surface-Laptop-2"></a>Surface Laptop 2</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/iwcbQBfaLge7Yt4.jpg" alt="SurfaceLaptop 2"></p><h3 id="Surface-Pro6"><a class="header-anchor" href="#Surface-Pro6"></a>Surface Pro6</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/9WDUgzqME1joR7x.jpg" alt="SurfacePro 6"></p><h3 id="Surface-Studio-Mountains"><a class="header-anchor" href="#Surface-Studio-Mountains"></a>Surface Studio (Mountains)</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/eJqGwujrf2OFiQX.jpg" alt="SurfaceStudio(Mountains)"></p><h3 id="Surface-Studio-Elephant"><a class="header-anchor" href="#Surface-Studio-Elephant"></a>Surface Studio (Elephant)</h3><p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/IUVOP4qxzapHfWu.jpg" alt="SurfaceStudio (Elephant)"></p><p>– 右键图片另存为即可 –</p>]]></content>
     
     
+    <summary type="html">分享一波高清壁纸</summary>
     
     
-    <category term="测试" scheme="https://mjzxin.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="壁纸" scheme="https://mjzxin.gitee.io/tags/%E5%A3%81%E7%BA%B8/"/>
+    
+    <category term="相册" scheme="https://mjzxin.gitee.io/tags/%E7%9B%B8%E5%86%8C/"/>
     
   </entry>
   
   <entry>
-    <title>七夕快乐</title>
-    <link href="https://mjzxin.gitee.io/post/519950924.html"/>
-    <id>https://mjzxin.gitee.io/post/519950924.html</id>
-    <published>2020-08-25T00:46:39.000Z</published>
-    <updated>2020-08-25T00:50:01.381Z</updated>
+    <title>Hello_Word</title>
+    <link href="https://mjzxin.gitee.io/post/2988939274.html"/>
+    <id>https://mjzxin.gitee.io/post/2988939274.html</id>
+    <published>2020-08-25T12:46:34.000Z</published>
+    <updated>2020-08-25T12:52:35.095Z</updated>
     
-    <content type="html"><![CDATA[<h1>555,祝大家七夕快乐~</h1><p>😀 测试下emoji能不能正常显示</p>]]></content>
+    <content type="html"><![CDATA[<h1>Hello Word</h1><h2 id="博客上线"><a class="header-anchor" href="#博客上线"></a>博客上线</h2><p>2020/8/23 ,博客上线.</p>]]></content>
     
     
-    <summary type="html">测试下博客</summary>
+      
+      
+    <summary type="html">&lt;h1&gt;Hello Word&lt;/h1&gt;
+&lt;h2 id=&quot;博客上线&quot;&gt;&lt;a class=&quot;header-anchor&quot; href=&quot;#博客上线&quot;&gt;&lt;/a&gt;博客上线&lt;/h2&gt;
+&lt;p&gt;2020/8/23 ,博客上线.&lt;/p&gt;
+</summary>
+      
     
     
     
     
     <category term="闲聊" scheme="https://mjzxin.gitee.io/tags/%E9%97%B2%E8%81%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试图片</title>
-    <link href="https://mjzxin.gitee.io/post/2475199580.html"/>
-    <id>https://mjzxin.gitee.io/post/2475199580.html</id>
-    <published>2020-08-24T06:37:00.000Z</published>
-    <updated>2020-08-25T10:40:24.072Z</updated>
-    
-    <content type="html"><![CDATA[<h1>打开博图</h1><h2 id="新建工程"><a class="header-anchor" href="#新建工程"></a>新建工程</h2><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/mjzxin/picgo/raw/master/img/SurfaceHub.jpg" alt=""></p><p><img src= "/img/loading.gif" data-lazy-src="https://gitee.com/mjzxin/picgo/raw/master/img/SurfaceFamily.jpg" alt=""></p><p>![](<a href="https://gitee.com/mjzxin/picgo/raw/master/img/SurfaceStudio">https://gitee.com/mjzxin/picgo/raw/master/img/SurfaceStudio</a> (Mountains).jpg)</p><figure class="highlight pascal"><table><tr><td class="code"><pre><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br><span class="line"></span><br><span class="line"><span class="keyword">IF</span> First <span class="keyword">THEN</span></span><br><span class="line">asd:=<span class="number">1</span>;</span><br><span class="line">end_if;</span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">图片</summary>
-    
-    
-    
-    <category term="相册" scheme="https://mjzxin.gitee.io/categories/%E7%9B%B8%E5%86%8C/"/>
-    
-    
-    <category term="图片" scheme="https://mjzxin.gitee.io/tags/%E5%9B%BE%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第二篇</title>
-    <link href="https://mjzxin.gitee.io/post/1131709303.html"/>
-    <id>https://mjzxin.gitee.io/post/1131709303.html</id>
-    <published>2020-08-23T14:44:15.000Z</published>
-    <updated>2020-08-25T10:31:53.492Z</updated>
-    
-    <content type="html"><![CDATA[<h1>测试</h1><p>啦啦啦</p>]]></content>
-    
-    
-    <summary type="html">测试</summary>
-    
-    
-    
-    <category term="测试" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="测试" scheme="https://mjzxin.gitee.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇</title>
-    <link href="https://mjzxin.gitee.io/post/1935830959.html"/>
-    <id>https://mjzxin.gitee.io/post/1935830959.html</id>
-    <published>2020-08-23T14:43:46.000Z</published>
-    <updated>2020-08-25T10:31:30.067Z</updated>
-    
-    <content type="html"><![CDATA[<h1>测试一下</h1><h2 id="正式上线了"><a class="header-anchor" href="#正式上线了"></a>正式上线了</h2>]]></content>
-    
-    
-    <summary type="html">测试</summary>
-    
-    
-    
-    <category term="测试" scheme="https://mjzxin.gitee.io/categories/%E6%B5%8B%E8%AF%95/"/>
-    
-    
-    <category term="更新" scheme="https://mjzxin.gitee.io/tags/%E6%9B%B4%E6%96%B0/"/>
     
   </entry>
   
