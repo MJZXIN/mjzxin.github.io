@@ -12,36 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title>微软壁纸</title>
-    <url>/post/1067949042.html</url>
-    <content><![CDATA[<h1>来自微软的高清壁纸</h1>
-<h2 id="大图注意流量哦"><a class="header-anchor" href="#大图注意流量哦"></a>大图注意流量哦.</h2>
-<h3 id="Surface-Family"><a class="header-anchor" href="#Surface-Family"></a>Surface Family</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/Ypq2lUAPfo7xzvL.jpg" alt="SurfaceFamily"></p>
-<h3 id="Surface-Go"><a class="header-anchor" href="#Surface-Go"></a>Surface Go</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/equWRa4iYAzhDIM.jpg" alt="SurfaceGo"></p>
-<h3 id="Surface-Hub-2-Surf"><a class="header-anchor" href="#Surface-Hub-2-Surf"></a>Surface Hub 2 (Surf)</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/rRF5djE4Qhx78Yv.jpg" alt="SurfaceHub2(Surf)"></p>
-<h3 id="Surface-Laptop-2"><a class="header-anchor" href="#Surface-Laptop-2"></a>Surface Laptop 2</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/iwcbQBfaLge7Yt4.jpg" alt="SurfaceLaptop 2"></p>
-<h3 id="Surface-Pro6"><a class="header-anchor" href="#Surface-Pro6"></a>Surface Pro6</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/9WDUgzqME1joR7x.jpg" alt="SurfacePro 6"></p>
-<h3 id="Surface-Studio-Mountains"><a class="header-anchor" href="#Surface-Studio-Mountains"></a>Surface Studio (Mountains)</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/eJqGwujrf2OFiQX.jpg" alt="SurfaceStudio(Mountains)"></p>
-<h3 id="Surface-Studio-Elephant"><a class="header-anchor" href="#Surface-Studio-Elephant"></a>Surface Studio (Elephant)</h3>
-<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/IUVOP4qxzapHfWu.jpg" alt="SurfaceStudio (Elephant)"></p>
-<p>– 右键图片另存为即可 –</p>
-]]></content>
-      <categories>
-        <category>相册</category>
-        <category>壁纸</category>
-      </categories>
-      <tags>
-        <tag>壁纸</tag>
-        <tag>相册</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo安装指南1</title>
     <url>/post/2205282516.html</url>
     <content><![CDATA[<h1>Hexo 安装教程 1</h1>
@@ -103,58 +73,33 @@
       </tags>
   </entry>
   <entry>
-    <title></title>
-    <url>/post/0.html</url>
-    <content><![CDATA[<h1>Hexo 安装教程 1</h1>
-<h2 id="系统准备"><a class="header-anchor" href="#系统准备"></a>系统准备</h2>
-<ul>
-<li>Git</li>
-<li>Node.js</li>
-</ul>
-<p>Git 可以从<a href="https://git-scm.com/">官网</a>下载,更新时(2020.08.31)是2.28.0版.</p>
-<p>Node.js也可以从<a href="https://nodejs.org/zh-cn/">官网</a>下载,文章更新时(2020.07.27)是12.18.3 LTS版.</p>
-<h2 id="安装Hexo"><a class="header-anchor" href="#安装Hexo"></a>安装Hexo</h2>
-<p>打开 Git bash</p>
-<ol>
-<li>定位到我们新建的项目文件夹,如 D:\Hexo.</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd &#x2F;d&#x2F;Hexo</span><br></pre></td></tr></table></figure>
-<ol start="2">
-<li>安装Hexo</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br></pre></td></tr></table></figure>
-<ol start="2">
-<li>初始化Hexo,将会拉取Hexo的基础文件 (以后如果操作失败,可以直接删除文件夹内的所有文件,从头再来)</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo init</span><br></pre></td></tr></table></figure>
-<ul>
-<li>如果网络慢,可以使用淘宝镜像代替. 可以进行验证.<img src= "/img/loading.gif" data-lazy-src="https://npm.taobao.org/badge/v/cnpmjs.org.svg" alt="徽章"></li>
-</ul>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">npm install -g cnpm --registry&#x3D;https:&#x2F;&#x2F;registry.npm.taobao.org</span><br><span class="line">npm config get registry</span><br></pre></td></tr></table></figure>
-<p>​		如果返回 <em><a href="https://registry.npm.taobao.org">https://registry.npm.taobao.org</a></em>，说明镜像配置成功。以后可以用cnpm代替npm.</p>
-<ol start="3">
-<li>可以查看已安装的版本信息.</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo v</span><br></pre></td></tr></table></figure>
-<ol start="4">
-<li>运行已安装的Hexo,按顺序运行.</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo g &#x2F;&#x2F;编译Hexo</span><br><span class="line">hexo s &#x2F;&#x2F;启动Hexo Server</span><br></pre></td></tr></table></figure>
-<h2 id="试运行"><a class="header-anchor" href="#试运行"></a>试运行</h2>
-<p>打开浏览器,输入 <em>localhost:4000</em>进入,就可以看到 hexo 的面容了.</p>
-<h3 id="添加新文章"><a class="header-anchor" href="#添加新文章"></a>添加新文章</h3>
-<p>输入</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo n 文档名称 &#x2F;&#x2F;可以中文</span><br><span class="line">hexo g</span><br><span class="line">hexo s</span><br></pre></td></tr></table></figure>
-<p>重新刷新浏览器就可以看到新建的 文档 了.</p>
-<h3 id="添加新页面"><a class="header-anchor" href="#添加新页面"></a>添加新页面</h3>
-<p>输入</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo new page 页面名称 &#x2F;&#x2F;可以中文</span><br><span class="line">hexo clean &#x2F;&#x2F;清除Hexo生成的文件</span><br><span class="line">hexo g &#x2F;&#x2F;编译</span><br><span class="line">hexo s &#x2F;&#x2F;启动Hexo Server</span><br></pre></td></tr></table></figure>
-<p>打开 \themes\landscape\_config.yml&quot;</p>
-<p>在 menu 中添加一行,</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">menu:</span><br><span class="line">  Home: &#x2F;</span><br><span class="line">  Archives: &#x2F;archives</span><br><span class="line">  Tag: &#x2F;tag &#x2F;&#x2F;刚刚新建的页面名称</span><br><span class="line">rss: &#x2F;atom.xml</span><br></pre></td></tr></table></figure>
-<p>输入</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hexo clean &#x2F;&#x2F;清除Hexo生成的文件</span><br><span class="line">hexo g &#x2F;&#x2F;编译</span><br><span class="line">hexo s &#x2F;&#x2F;启动Hexo Server</span><br></pre></td></tr></table></figure>
-<p>重新刷新浏览器就可以看到新建的按钮,按下即可跳转至对应的页面.</p>
+    <title>微软壁纸</title>
+    <url>/post/1067949042.html</url>
+    <content><![CDATA[<h1>来自微软的高清壁纸</h1>
+<h2 id="大图注意流量哦"><a class="header-anchor" href="#大图注意流量哦"></a>大图注意流量哦.</h2>
+<h3 id="Surface-Family"><a class="header-anchor" href="#Surface-Family"></a>Surface Family</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/Ypq2lUAPfo7xzvL.jpg" alt="SurfaceFamily"></p>
+<h3 id="Surface-Go"><a class="header-anchor" href="#Surface-Go"></a>Surface Go</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/equWRa4iYAzhDIM.jpg" alt="SurfaceGo"></p>
+<h3 id="Surface-Hub-2-Surf"><a class="header-anchor" href="#Surface-Hub-2-Surf"></a>Surface Hub 2 (Surf)</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/rRF5djE4Qhx78Yv.jpg" alt="SurfaceHub2(Surf)"></p>
+<h3 id="Surface-Laptop-2"><a class="header-anchor" href="#Surface-Laptop-2"></a>Surface Laptop 2</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/iwcbQBfaLge7Yt4.jpg" alt="SurfaceLaptop 2"></p>
+<h3 id="Surface-Pro6"><a class="header-anchor" href="#Surface-Pro6"></a>Surface Pro6</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/9WDUgzqME1joR7x.jpg" alt="SurfacePro 6"></p>
+<h3 id="Surface-Studio-Mountains"><a class="header-anchor" href="#Surface-Studio-Mountains"></a>Surface Studio (Mountains)</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/eJqGwujrf2OFiQX.jpg" alt="SurfaceStudio(Mountains)"></p>
+<h3 id="Surface-Studio-Elephant"><a class="header-anchor" href="#Surface-Studio-Elephant"></a>Surface Studio (Elephant)</h3>
+<p><img src= "/img/loading.gif" data-lazy-src="https://i.loli.net/2020/08/25/IUVOP4qxzapHfWu.jpg" alt="SurfaceStudio (Elephant)"></p>
+<p>– 右键图片另存为即可 –</p>
 ]]></content>
+      <categories>
+        <category>相册</category>
+        <category>壁纸</category>
+      </categories>
+      <tags>
+        <tag>壁纸</tag>
+        <tag>相册</tag>
+      </tags>
   </entry>
 </search>
